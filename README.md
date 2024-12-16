@@ -2,9 +2,11 @@
 Implemented groundbreaking technology in Indonesia through Zakat Hackathon competition by integrating a smart box (BAZBOX), mobile app, and website to streamline the distribution of zakat, infaq, and sedekah.
 
 ![3D](https://github.com/user-attachments/assets/370c4396-3ecf-49fd-8576-5e7f10147957)
-
+Smart Box (BazBox) Interface:
+![bazbox-monitor-muzakki-mustahiq](https://github.com/user-attachments/assets/bd28e615-80c6-4ded-84f5-0ef2025ebe58)
 
 BazBox Mobile App Prototype:
+
 ![masuk sebagai](https://github.com/user-attachments/assets/3557923d-6801-4616-be63-0436381ad12e)
 ![amil-verification](https://github.com/user-attachments/assets/3a4dcb19-4b13-491e-9ed4-7f73c6f8075f)
 ![amil-datamustahiq](https://github.com/user-attachments/assets/30c19274-dfd4-4d5c-b725-3f9dd376d9fe)
